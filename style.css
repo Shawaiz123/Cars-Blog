@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    
+}
+.card{
+    display: inline-block;
+    margin: 10px;
+
+}
+.cars2img{
+    height: 150px;
+}
+.cars1img{
+    height: 200px;
+}
+.cars3img{
+    height: 150px;
+    width: 270px;
+}
+.card{
+    padding: 10px;
+}
+h1{
+    font-size: 50px;
+}
+.btn-subscribe{
+    width: 150px;
+    height: 40px;
+}
